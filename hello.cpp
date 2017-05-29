@@ -23,6 +23,8 @@ int main()
 
     cout<<"This is the branch_1"<<endl;
 
+    cout<<"This is the branch_2"<<endl;
+
     cout<<""<<endl;
 
 //    printf("this is c format = %d\n", i);
