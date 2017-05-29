@@ -21,6 +21,7 @@ int main()
     cout<<"i = "<<i;
     cout<<"This is the master "<<endl;
 
+    cout<<"This is the branch_2"<<endl;
     cout<<""<<endl;
 
 //    printf("this is c format = %d\n", i);
