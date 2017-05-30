@@ -21,6 +21,9 @@ int main()
     cout<<"i = "<<i;
     cout<<"This is the master "<<endl;
 
+    cout<<"The first use of github"<<endl;
+
+
     cout<<""<<endl;
 
 //    printf("this is c format = %d\n", i);
