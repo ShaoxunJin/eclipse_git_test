@@ -26,6 +26,8 @@ int main()
     cout<<"I am changing the context in GitHub "<<endl;
     
     cout<<"PULL conflict "<<endl;
+
+    cout<<"conflict has been solved "<<endl;
     cout<<""<<endl;
 
 //    printf("this is c format = %d\n", i);
